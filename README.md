@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Micah Gordon, a Bachelor CS student at **Auburn University** and a software developer at the [Startup Studio](https://www.startupstudioau.com/). I'm studying CS to solve, streamline, or simplify meaningful real world challenges.
+I'm Micah Gordon, a Bachelor CS student at **Auburn University** and a software developer at the [Startup Studio](https://www.startupstudioau.com/). I'm studying CS to solve, streamline, or simplify meaningful problems.
 
 ### Skills
 
