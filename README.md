@@ -11,4 +11,4 @@ mdg0062@auburn.edu
 
 [LinkedIn](linkedin.com/in/micah-gordon-b78b07307)
 
-[Download my resume!](https://github.com/scrypticoa/scrypticoa/blob/main/Micah%20Gordon%20Resume.pdf)
+[Download my resume!](https://raw.githubusercontent.com/scrypticoa/scrypticoa/main/Micah%20Gordon%20Resume.pdf)
