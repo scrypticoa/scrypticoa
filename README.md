@@ -8,5 +8,7 @@ I'm Micah Gordon, a Bachelor CS student at **Auburn University** and a software 
 
 ### Contact & Links
 mdg0062@auburn.edu
-linkedin.com/in/micah-gordon-b78b07307
-[Resume]()
+
+[LinkedIn](linkedin.com/in/micah-gordon-b78b07307)
+
+[Download my resume!](https://github.com/scrypticoa/scrypticoa/blob/main/Micah%20Gordon%20Resume.pdf)
